@@ -1,13 +1,13 @@
 // ==UserScript==
 // @name         Copy Coursera Lecture Transcript
 // @namespace    http://tampermonkey.net/
-// @version      1.2
+// @version      1.3
 // @description  Copies all innerHTML of span.css-4s48ix inside div.phrases to clipboard when clicked
 // @author       Jun Hyeok Bae
 // @match        https://www.coursera.org/learn/*
 // @grant        GM_setClipboard
-// @updateURL    https://github.com/JNavi10/Copy_Coursera_Transcript/blob/main/main.user.js
-// @downloadURL  https://github.com/JNavi10/Copy_Coursera_Transcript/blob/main/main.user.js
+// @updateURL    https://github.com/JNavi10/Copy_Coursera_Transcript/raw/main/main.user.js
+// @downloadURL  https://github.com/JNavi10/Copy_Coursera_Transcript/raw/main/main.user.js
 // ==/UserScript==
 
 (function () {
