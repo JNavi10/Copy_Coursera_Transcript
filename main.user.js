@@ -6,8 +6,8 @@
 // @author       Jun Hyeok Bae
 // @match        https://www.coursera.org/learn/*
 // @grant        GM_setClipboard
-// @updateURL   
-// @downloadURL 
+// @updateURL    https://github.com/JNavi10/Copy_Coursera_Transcript/blob/main/main.user.js
+// @downloadURL  https://github.com/JNavi10/Copy_Coursera_Transcript/blob/main/main.user.js
 // ==/UserScript==
 
 (function () {
